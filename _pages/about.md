@@ -1,4 +1,4 @@
----
+<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/acd8da32-76aa-4416-b45c-3e16c7c4f7d7" /><img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/d0dda173-b858-41d1-88fd-aa8201d67f5b" /><img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/1828de5a-27bd-4430-9ace-7351958dbf47" />---
 permalink: /
 # title: ""
 # excerpt: "About me"
@@ -14,72 +14,107 @@ redirect_from:
 I am currently a Research Fellow at Nanyang Technological University, Singapore, working with [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I received my Ph.D. degree at Nanyang Technological University, advised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/). Before that, I received my M.Eng. degree from Tianjin University under the supervision of [Prof. Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from Jiangnan University. 
 
 ## Research Interests
-- Red-teaming and Evaluation of Foundation Models
-- Safety and Security of LLM-Based Autonomous Agents
-- Backdoor Attacks and Defenses in Deep Learning 
-- Trustworthy AI
+- (Security) Game Theory Algorithm
+- In-Context Learning for Games
+- (LLM-based) Agent-based Modeling
 <br/>
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=bSksaBYAAAAJ&hl=zh-CN)]</span>
 
 
-- **Automated Red Teaming for Text-to-Image Models through Feedback-Guided Prompt Iteration with Vision-Language Models**
+- **[AAMAS 2024] Grasper: A Generalist Pursuer for Pursuit-evasion Problems**
   <br/>
-  Wei Xu\*, <u>Kangjie Chen</u>\*, Jiawei Qiu, Yuyang Zhang, Run Wang, Jin Mao, Tianwei Zhang, Lina Wang
+  Pengdeng Li\*, <u>Shuxin Li</u>\*, Xinrun Wang, Jakub Cerny, Youzhi Zhang, Stephen McAleer, Hau Chan, Bo An
   <br/>
-  *IEEE International Conference on Computer Vision (ICCV), 2025*
+  *Proceedings of the 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS'24), pp.1147-1155*
 
-- **USD: NSFW Content Detection for Text-to-Image Models via Scene Graph**
+- **[ICML 2024] Configurable Mirror Descent: Towards a Unification of Decision Making**
   <br/>
-  Yuyang Zhang\*, <u>Kangjie Chen</u>\*, Xudong Jiang, Jiahui Wen, Yihui Jin, Ziyou Liang, Yihao Huang, Run Wang, Lina Wang
+  Pengdeng Li, <u>Shuxin Li</u>\*, Chang Yang\*, Xinrun Wang, Shuyue Hu, Xiao Huang, Hau Chan, Bo An
   <br/>
-  *The 34th USENIX Security Symposium (USENIX Security), 2025*
-
-
-- **[TRUST-VLM: Thorough Red-teaming for Uncovering Safety Threats in Vision-Language Models](https://kangjie-chen.github.io/files/2025_ICML.pdf)**
-  <br/>
-  <u>Kangjie Chen</u>, Muyang Li, Guanlin Li, Shudong Zhang, Shangwei Guo, Tianwei Zhang
-  <br/>
-  *International Conference on Machine Learning (ICML), 2025*
-
-- **[ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users](https://openreview.net/pdf?id=H2ATO32ilj)**
-  <br/>
-  Guanlin Li, <u>Kangjie Chen</u>\#, Shudong Zhang, Jie Zhang, Tianwei Zhang
-  <br/>
-  *The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
+  *Proceedings of the 41st International Conference on Machine Learning (ICML'24), pp.28164-28203*
 
 
-- **[Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels](https://kangjie-chen.github.io/files/2024_DSN.pdf)**
+- **[IJCAI 2024] Self-adaptive PSRO: Towards an Automatic Population-based Game Solver**
   <br/>
-  Xiaoxuan Lou\*, <u>Kangjie Chen</u>\*, Guowen Xu, Han Qiu, Shangwei Guo, and Tianwei Zhang
+  Pengdeng Li, <u>Shuxin Li</u>, Chang Yang, Xinrun Wang, Xiao Huang, Hau Chan, Bo An
   <br/>
-  *The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024*
+  *Proceeding of the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24), pp.139-147*
 
-- **[BadEdit: Backdooring Large Language Models by Model Editing](https://openreview.net/pdf?id=duZANm2ABX)**
+- **[IJCAI 2024] Reinforcement Nash equilibrium solver**
   <br/>
-  Yanzhou Li, Tianlin Li\#, <u>Kangjie Chen</u>\#, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, and Yang Liu
+  Xinrun Wang\*, Chang Yang\*, <u>Shuxin Li</u>, Pengdeng Li, Xiao Huang, Hau Chan, Bo An
   <br/>
-  *International Conference on Learning Representations (ICLR), 2024*
+  *Proceedings of the 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS'24 EA), pp.2552-2554.
+  Previous version appears as Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24), pp.265-273*
 
-
-- **[Multi-target Backdoor Attacks for Code Pre-trained Models](https://aclanthology.org/2023.acl-long.399.pdf)**
+- **[ICLR 2023] Population-size-aware Policy Optimization for Mean-field Games**
   <br/>
-  Yanzhou Li, Shangqing Liu, <u>Kangjie Chen</u>, Xiaofei Xie, Tianwei Zhang, and Yang Liu
+  Pengdeng Li, Xinrun Wang, <u>Shuxin Li</u>, Hau Chan, Bo An
   <br/>
-  *The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023* 
+  *Proceedings of the 2023 International Conference on Learning Representations (ICLR'23)*
 
-- **[Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://kangjie-chen.github.io/files/2023_ICLR_clean-image_backdoor.pdf)**
+- **[AAAI 2023] Solving Large-scale Pursuit-evasion Games using Pre-trained Strategies**
   <br/>
-  <u>Kangjie Chen</u>, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang
+  <u>Shuxin Li</u>, Xinrun Wang, Youzhi Zhang, Wanqi Xue, Jakub Cerny, Bo An
   <br/>
-  *International Conference on Learning Representations (ICLR), 2023, <span style="color:red"><b>Oral</b></span>* 
+  *Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23), pp.11586-11594*
 
+- **[CAAI AIR 2023] Decision Making in Team-adversary Games with Combinatorial Action Space**
+  <br/>
+  <u>Shuxin Li</u>, Youzhi Zhang, Xinrun Wang, Wanqi Xue, Bo An
+  <br/>
+  *CAAI Artificial Intelligence Research, 2023, 2:9150023*
+  
+- **[IJCAI 2021] CFR-MIX: Solving Imperfect Information Extensive-form Games with Combinatorial Action Space**
+  <br/>
+  <u>Shuxin Li</u>, Youzhi Zhang, Xinrun Wang, Wanqi Xue, Bo An
+  <br/>
+  *Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI'21), pp.3663-3669*
 
+- **[IJCAI 2021] Solving Large-scale Extensive-form Network Security Games via Neural Fictitious Self-play**
+  <br/>
+  Wanqi Xue, Youzhi Zhang, <u>Shuxin Li</u>, Bo An, Chai Kiat Yeo
+  <br/>
+  *Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI'21), pp.3713-3720*
 
+- **[AAMAS 2021]** ***Temporal Watermarks for Deep Reinforcement Learning Models***
+  <br/>
+  Kangjie Chen, Shangwei Guo, Tianwei Zhang, <u>Shuxin Li</u>, Yang Liu
+  <br/>
+  *Proceedings of the 20th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS'21) pp.314-322*
 
+- **[IJCAI 2017] Defending against Man-in-the-middle Attack in Repeated Games**
+  <br/>
+  <u>Shuxin Li</u>, Xiaohong Li, Jianye Hao, Bo An, Zhiyong Feng, Kangjie Chen, Chengwei Zhang
+  <br/>
+  *Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI'17), pp.3742-3748*
+
+- **[IJCAI 2017] Optimal Personalized Defense Strategy against Man-in-the-middle Attack**
+  <br/>
+  Xiaohong Li, <u>Shuxin Li</u>, Jianye Hao, Zhiyong Feng, Bo An
+  <br/>
+  *Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI'17), pp.593-599*
+
+- **[Journal of Biomedical Semantics 2017] Dynamically Analyzing Cell Interactions in Biological Environments using Multiagent Social Learning Framework**
+  <br/>
+  Chengwei Zhang, Xiaohong Li, <u>Shuxin Li</u>, Zhiyong Feng
+  <br/>
+  *Journal of Biomedical Semantics, 2017, 8(1):31*
+
+- **[BIBM 2016] Dynamic Analysis of Cell Interactions in Biological Environments under Multiagent Social Learning Framework**
+  <br/>
+  Chengwei Zhang, Xiaohong Li, <u>Shuxin Li</u>, Jianye Hao
+  <br/>
+  *IEEE International Conference on Bioinformatics and Biomedicine (BIBM'16), pp.1673-1678*
+  
 <!-- ## Book -->
 
 
+## Invited Talks
+- “Temporal Watermarks for Deep Reinforcement Learning Models”,
+<br/>
+Student Lecture Series (SLS), Nanyang Technological University, 23 June 2021.
 
 
 ## Professional Services
@@ -87,13 +122,7 @@ I am currently a Research Fellow at Nanyang Technological University, Singapore,
 - Journal Reviewer for TDSC, TIFS, TIP, TMM, TCSVT
 
 
-## Teaching
-- Introduction to Computational Thinking and Programming (SC1003), Teaching Assistant, 2022 Fall, Nanyang Technological University
 
 
-## Invited Talks
-- “Temporal Watermarks for Deep Reinforcement Learning Models”,
-<br/>
-Student Lecture Series (SLS), Nanyang Technological University, 23 June 2021.
 
 
