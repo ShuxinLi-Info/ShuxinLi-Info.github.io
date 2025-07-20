@@ -41,7 +41,7 @@ I am currently a Research Fellow at Nanyang Technological University, Singapore,
   <br/>
   *Proceeding of the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24), pp.139-147*
 
-- **[IJCAI 2024] Reinforcement Nash equilibrium solver**
+- **[IJCAI 2024] Reinforcement Nash Equilibrium Solver**
   <br/>
   Xinrun Wang\*, Chang Yang\*, <u>**Shuxin Li**</u>, Pengdeng Li, Xiao Huang, Hau Chan, Bo An
   <br/>
