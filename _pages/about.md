@@ -11,7 +11,7 @@ redirect_from:
 <span style="font-size:large;font-weight:bold;"> Welcome to my homepage! </span>
 <br/>
 
-I am currently a Research Fellow at Nanyang Technological University, Singapore, working with [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I received my Ph.D. degree at Nanyang Technological University, advised by Prof. Bo An. Before that, I received my M.Eng. degree from Tianjin University under the supervision of [Prof. Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from Jiangnan University. 
+I am currently a Research Fellow at Nanyang Technological University, Singapore, working with [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I received my Ph.D. degree at Nanyang Technological University, advised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/). Before that, I received my M.Eng. degree from Tianjin University under the supervision of [Prof. Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from Jiangnan University. 
 
 ## Research Interests
 - Red-teaming and Evaluation of Foundation Models
@@ -20,7 +20,7 @@ I am currently a Research Fellow at Nanyang Technological University, Singapore,
 - Trustworthy AI
 <br/>
 
-## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
+## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=bSksaBYAAAAJ&hl=zh-CN)]</span>
 
 
 - **Automated Red Teaming for Text-to-Image Models through Feedback-Guided Prompt Iteration with Vision-Language Models**
