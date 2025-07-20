@@ -78,7 +78,7 @@ I am currently a Research Fellow at Nanyang Technological University, Singapore,
   <br/>
   *Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI'21), pp.3713-3720*
 
-- **[AAMAS 2021]** ***Temporal Watermarks for Deep Reinforcement Learning Models***
+- *[AAMAS 2021]* **Temporal Watermarks for Deep Reinforcement Learning Models**
   <br/>
   Kangjie Chen, Shangwei Guo, Tianwei Zhang, <u>Shuxin Li</u>, Yang Liu
   <br/>
