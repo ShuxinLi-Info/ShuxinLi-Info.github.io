@@ -24,13 +24,13 @@ I am currently a Research Fellow at Nanyang Technological University, Singapore,
 
 - **[AAMAS 2024] Grasper: A Generalist Pursuer for Pursuit-evasion Problems**
   <br/>
-  Pengdeng Li\*, <u>**Shuxin Li**</u>\*, Xinrun Wang, Jakub Cerny, Youzhi Zhang, Stephen McAleer, Hau Chan, Bo An
+  Pengdeng Li\*, <u>**Shuxin Li**</u> \*, Xinrun Wang, Jakub Cerny, Youzhi Zhang, Stephen McAleer, Hau Chan, Bo An
   <br/>
   *Proceedings of the 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS'24), pp.1147-1155*
 
 - **[ICML 2024] Configurable Mirror Descent: Towards a Unification of Decision Making**
   <br/>
-  Pengdeng Li, <u>**Shuxin Li**</u>\*, Chang Yang\*, Xinrun Wang, Shuyue Hu, Xiao Huang, Hau Chan, Bo An
+  Pengdeng Li, <u>**Shuxin Li**</u> \*, Chang Yang\*, Xinrun Wang, Shuyue Hu, Xiao Huang, Hau Chan, Bo An
   <br/>
   *Proceedings of the 41st International Conference on Machine Learning (ICML'24), pp.28164-28203*
 
