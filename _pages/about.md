@@ -15,6 +15,7 @@ I am currently a **Research Fellow** at Nanyang Technological University (NTU), 
 
 ## Research Interests
 - (Security) Game Theory Algorithm
+- Multi-Agent Reinforcement Learning
 - In-Context Learning for Games
 - (LLM-based) Agent-based Modeling
 <br/>
