@@ -66,7 +66,7 @@ I am currently a Research Fellow at Nanyang Technological University, Singapore,
   <br/>
   *CAAI Artificial Intelligence Research, 2023, 2:9150023*
   
-- *[IJCAI 2021]* **CFR-MIX: Solving Imperfect Information Extensive-form Games with Combinatorial Action Space**
+- *[IJCAI 2021]* **[CFR-MIX: Solving Imperfect Information Extensive-form Games with Combinatorial Action Space]{https://shuxinli-info.github.io/files/CFR-MIX%20Solving%20Imperfect%20Information%20Extensive-Form%20Games%20with%20Combinatorial%20Action%20Space.pdf}**
   <br/>
  <u>Shuxin Li</u>, Youzhi Zhang, Xinrun Wang, Wanqi Xue, Bo An
   <br/>
