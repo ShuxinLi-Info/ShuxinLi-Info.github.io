@@ -22,7 +22,8 @@ I am currently a Research Fellow at Nanyang Technological University, Singapore,
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=bSksaBYAAAAJ&hl=zh-CN)]</span>
 
 
-- *[AAMAS 2024]* **[Grasper: A Generalist Pursuer for Pursuit-evasion Problems](https://shuxinli-info.github.io/files/Grasper%20A%20Generalist%20Pursuer%20for%20Pursuit-Evasion%20Problems.pdf)[Supplement](https://shuxinli-info.github.io/files/Supplemental_Grasper%20A%20Generalist%20Pursuer%20for%20Pursuit-Evasion%20Problems.pdf)**
+- *[AAMAS 2024]* **[Grasper: A Generalist Pursuer for Pursuit-evasion Problems](https://shuxinli-info.github.io/files/Grasper%20A%20Generalist%20Pursuer%20for%20Pursuit-Evasion%20Problems.pdf) 
+ [[Supplement]](https://shuxinli-info.github.io/files/Supplemental_Grasper%20A%20Generalist%20Pursuer%20for%20Pursuit-Evasion%20Problems.pdf)**
   <br/>
   Pengdeng Li\*, <u>Shuxin Li</u>\*, Xinrun Wang, Jakub Cerny, Youzhi Zhang, Stephen McAleer, Hau Chan, Bo An
   <br/>
