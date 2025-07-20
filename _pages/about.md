@@ -112,14 +112,11 @@ I am currently a Research Fellow at Nanyang Technological University, Singapore,
 
 
 ## Invited Talks
-- “[Solving Large-scale Pursuit-evasion Games using Pre-trained Strategies](https://www.bilibili.com/video/BV15P4y1q7fU/?spm_id_from=333.1387.collection.video_card.click&vd_source=52ddf949c8fc59f6a289cc41a0a24839)”,
-<br/>
-RLChina The 34th Session of the Thesis Symposium, 27 Dec. 2022. 
+- “[Solving Large-scale Pursuit-evasion Games using Pre-trained Strategies](https://www.bilibili.com/video/BV15P4y1q7fU/?spm_id_from=333.1387.collection.video_card.click&vd_source=52ddf949c8fc59f6a289cc41a0a24839)”, RLChina The 34th Session of the Thesis Symposium, 27 Dec. 2022. 
 
 
 ## Professional Services
-- Conference Reviewer for ICML, ICLR, NeurIPS, CVPR, AAAI, IJCAI, ICCV
-- Journal Reviewer for TDSC, TIFS, TIP, TMM, TCSVT
+- Conference Reviewer for NeurIPS 2022 D&B Track, NeurIPS 2024, NeurIPS 2025, ICML 2025, ICLR 2025, IJCAI 2025, AISTATS 2025, AAMAS 2025, ECAI 2025
 
 
 
