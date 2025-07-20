@@ -112,9 +112,9 @@ I am currently a Research Fellow at Nanyang Technological University, Singapore,
 
 
 ## Invited Talks
-- “Temporal Watermarks for Deep Reinforcement Learning Models”,
+- “[Solving Large-scale Pursuit-evasion Games using Pre-trained Strategies](https://www.bilibili.com/video/BV15P4y1q7fU/?spm_id_from=333.1387.collection.video_card.click&vd_source=52ddf949c8fc59f6a289cc41a0a24839)”,
 <br/>
-Student Lecture Series (SLS), Nanyang Technological University, 23 June 2021.
+RLChina The 34th Session of the Thesis Symposium, 27 Dec. 2022. 
 
 
 ## Professional Services
