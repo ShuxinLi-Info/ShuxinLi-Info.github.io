@@ -11,7 +11,7 @@ redirect_from:
 <span style="font-size:large;font-weight:bold;"> Welcome to my homepage! </span>
 <br/>
 
-I am currently a **Research Fellow** at Nanyang Technological University (NTU), Singapore, working with [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I received my Ph.D. degree in Computer Science from Nanyang Technological University, where I was also supervised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/). Prior to that, I obtained my M.Eng. degree from Tianjin University under the supervision of [Prof. Xiaohong Li](https://cic.tju.edu.cn/faculty/lxh/index-english.html) and [Prof. Jianye Hao](http://www.icdai.org/jianye.html), and my B.Eng. degree from Jiangnan University. 
+I am currently a **Research Fellow** at Nanyang Technological University (NTU), Singapore, working with [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I received my Ph.D. degree in Computer Science from Nanyang Technological University, where I was also supervised by Prof. Bo An. Prior to that, I obtained my M.Eng. degree from Tianjin University under the supervision of [Prof. Xiaohong Li](https://cic.tju.edu.cn/faculty/lxh/index-english.html) and [Prof. Jianye Hao](http://www.icdai.org/jianye.html), and my B.Eng. degree from Jiangnan University. 
 
 ## Research Interests
 - (Security) Game Theory Algorithm
@@ -92,7 +92,7 @@ I am currently a **Research Fellow** at Nanyang Technological University (NTU), 
   <br/>
   *Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI'17), pp.3742-3748*
 
-- *[IJCAI 2017]* **[Optimal Personalized Defense Strategy against Man-in-the-middle Attack](https://shuxinli-info.github.io/files/Optimal%20Personalized%20Defense%20Strategy%20Against%20Man-In-The-Middle%20Attack.pdf)**
+- *[AAAI 2017]* **[Optimal Personalized Defense Strategy against Man-in-the-middle Attack](https://shuxinli-info.github.io/files/Optimal%20Personalized%20Defense%20Strategy%20Against%20Man-In-The-Middle%20Attack.pdf)**
   <br/>
   Xiaohong Li, <u>Shuxin Li</u>, Jianye Hao, Zhiyong Feng, Bo An
   <br/>
