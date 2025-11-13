@@ -23,7 +23,7 @@ I am currently a **Research Fellow** at Nanyang Technological University (NTU), 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=bSksaBYAAAAJ&hl=zh-CN)]</span>
 - *[AAAI 2026]* **Tree-based Stochastic Optimization for Solving Large-scale Urban Network Security Games**
   <br/>
-Shuxin Zhuang, Linjian Meng, <u>Shuxin Li</u>, Minming Li, Youzhi Zhang*.
+Shuxin Zhuang, Linjian Meng, <u>Shuxin Li</u>, Minming Li, Youzhi Zhang.
   <br/>
 *Proceedings of the Fortieth AAAI Conference on Artificial Intelligence (AAAI'26)*
 
