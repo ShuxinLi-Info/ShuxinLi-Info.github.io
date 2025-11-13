@@ -25,7 +25,7 @@ I am currently a **Research Fellow** at Nanyang Technological University (NTU), 
   <br/>
 Shuxin Zhuang, Linjian Meng, <u>Shuxin Li</u>, Minming Li, Youzhi Zhang.
   <br/>
-*Proceedings of the Fortieth AAAI Conference on Artificial Intelligence (AAAI'26)*
+*Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI'26)*
 
 - *[AAMAS 2024]* **[Grasper: A Generalist Pursuer for Pursuit-evasion Problems](https://shuxinli-info.github.io/files/Grasper%20A%20Generalist%20Pursuer%20for%20Pursuit-Evasion%20Problems.pdf) 
  [[Supplement]](https://shuxinli-info.github.io/files/Supplemental_Grasper%20A%20Generalist%20Pursuer%20for%20Pursuit-Evasion%20Problems.pdf)**
