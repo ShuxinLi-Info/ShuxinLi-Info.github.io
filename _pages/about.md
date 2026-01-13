@@ -21,6 +21,12 @@ I am currently a **Research Fellow** at Nanyang Technological University (NTU), 
 <br/>
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=bSksaBYAAAAJ&hl=zh-CN)]</span>
+\* Equal Contribution \# Corresponding Author 
+- *[AAMAS 2026]* **DEpiABS: Differentiable Epidemic Agent-based Simulator**
+  <br/>
+  Zhijian Gao, <u>Shuxin Li</u>\#, Bo An.
+  <br/>
+  *Proceedings of the 25th International Joint Conference on Autonomous Agents and Multi-Agent Systems (AAMAS'26)*
 - *[AAAI 2026]* **Tree-based Stochastic Optimization for Solving Large-scale Urban Network Security Games**
   <br/>
 Shuxin Zhuang, Linjian Meng, <u>Shuxin Li</u>, Minming Li, Youzhi Zhang.
