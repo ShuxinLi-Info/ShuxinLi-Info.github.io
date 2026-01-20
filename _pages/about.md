@@ -22,6 +22,11 @@ I am currently a **Research Fellow** at Nanyang Technological University (NTU), 
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=bSksaBYAAAAJ&hl=zh-CN)]</span>
 \* Equal Contribution \# Corresponding Author 
+- *[TMLR]* **Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs**
+    <br/>
+Chang Yang, Ruiyu Wang, Junzhe Jiang, Qi Jiang, Qinggang Zhang, Yanchen Deng, <u>Shuxin Li</u>, Shuyue Hu, Bo Li, Florian T. Pokorny, Xiao Huang, Xinrun Wang
+  <br/>
+  *Transactions on Machine Learning Research (TMLR), 2026*
 - *[AAMAS 2026]* **DEpiABS: Differentiable Epidemic Agent-based Simulator**
   <br/>
   Zhijian Gao, <u>Shuxin Li</u>\#, Bo An.
