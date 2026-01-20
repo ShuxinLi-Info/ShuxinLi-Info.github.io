@@ -32,7 +32,7 @@ Chang Yang, Ruiyu Wang, Junzhe Jiang, Qi Jiang, Qinggang Zhang, Yanchen Deng, <u
   Zhijian Gao, <u>Shuxin Li</u>\#, Bo An.
   <br/>
   *Proceedings of the 25th International Joint Conference on Autonomous Agents and Multi-Agent Systems (AAMAS'26)*
-- *[AAAI 2026]* **Tree-based Stochastic Optimization for Solving Large-scale Urban Network Security Games**
+- *[AAAI 2026]* **[Tree-based Stochastic Optimization for Solving Large-scale Urban Network Security Games](https://arxiv.org/pdf/2511.10072)**
   <br/>
 Shuxin Zhuang, Linjian Meng, <u>Shuxin Li</u>, Minming Li, Youzhi Zhang.
   <br/>
