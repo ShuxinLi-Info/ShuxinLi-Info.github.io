@@ -23,20 +23,22 @@ I am currently a **Research Fellow** at Nanyang Technological University (NTU), 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=bSksaBYAAAAJ&hl=zh-CN)]</span>
 \* Equal Contribution \# Corresponding Author 
 - *[TMLR]* **[Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://openreview.net/forum?id=Xb6d5lGLb2)**
-    <br/>
-Chang Yang, Ruiyu Wang, Junzhe Jiang, Qi Jiang, Qinggang Zhang, Yanchen Deng, <u>Shuxin Li</u>, Shuyue Hu, Bo Li, Florian T. Pokorny, Xiao Huang, Xinrun Wang
+  <br/>
+  Chang Yang, Ruiyu Wang, Junzhe Jiang, Qi Jiang, Qinggang Zhang, Yanchen Deng, <u>Shuxin Li</u>, Shuyue Hu, Bo Li, Florian T. Pokorny, Xiao Huang, Xinrun Wang
   <br/>
   *Transactions on Machine Learning Research (TMLR), 2026*
-- *[AAMAS 2026]* **DEpiABS: Differentiable Epidemic Agent-based Simulator**
+  
+- *[AAMAS 2026]* **[DEpiABS: Differentiable Epidemic Agent-based Simulator](https://arxiv.org/pdf/2602.12102v1)**
   <br/>
   Zhijian Gao, <u>Shuxin Li</u>\#, Bo An.
   <br/>
   *Proceedings of the 25th International Joint Conference on Autonomous Agents and Multi-Agent Systems (AAMAS'26)*
+  
 - *[AAAI 2026]* **[Tree-based Stochastic Optimization for Solving Large-scale Urban Network Security Games](https://arxiv.org/pdf/2511.10072)**
   <br/>
-Shuxin Zhuang, Linjian Meng, <u>Shuxin Li</u>, Minming Li, Youzhi Zhang.
+  Shuxin Zhuang, Linjian Meng, <u>Shuxin Li</u>, Minming Li, Youzhi Zhang.
   <br/>
-*Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI'26)*
+  *Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI'26)*
 
 - *[AAMAS 2024]* **[Grasper: A Generalist Pursuer for Pursuit-evasion Problems](https://shuxinli-info.github.io/files/Grasper%20A%20Generalist%20Pursuer%20for%20Pursuit-Evasion%20Problems.pdf) 
  [[Supplement]](https://shuxinli-info.github.io/files/Supplemental_Grasper%20A%20Generalist%20Pursuer%20for%20Pursuit-Evasion%20Problems.pdf)**
@@ -50,7 +52,6 @@ Shuxin Zhuang, Linjian Meng, <u>Shuxin Li</u>, Minming Li, Youzhi Zhang.
   Pengdeng Li, <u>Shuxin Li</u>\*, Chang Yang\*, Xinrun Wang, Shuyue Hu, Xiao Huang, Hau Chan, Bo An
   <br/>
   *Proceedings of the 41st International Conference on Machine Learning (ICML'24), pp.28164-28203*
-
 
 - *[IJCAI 2024]* **[Self-adaptive PSRO: Towards an Automatic Population-based Game Solver](https://shuxinli-info.github.io/files/Self-adaptive%20PSRO%20Towards%20an%20automatic%20population-based%20game%20solver..pdf)**
   <br/>
