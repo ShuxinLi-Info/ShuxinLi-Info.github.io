@@ -26,7 +26,8 @@ I am currently a **Research Fellow** at Nanyang Technological University (NTU), 
   <br/>
   Shuxin Zhuang\*, <u>Shuxin Li</u>\*, Tianji Yang, Muheng Li, Xianjie Shi, Bo An, Youzhi Zhang
   <br/>
-  *In Proceedings of KDD 2026 Datasets & Benchmarks Track (KDD'26)*
+  *Proceedings of KDD 2026 Datasets & Benchmarks Track (KDD'26)*
+  
 - *[TMLR]* **[Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://openreview.net/forum?id=Xb6d5lGLb2)**
   <br/>
   Chang Yang, Ruiyu Wang, Junzhe Jiang, Qi Jiang, Qinggang Zhang, Yanchen Deng, <u>Shuxin Li</u>, Shuyue Hu, Bo Li, Florian T. Pokorny, Xiao Huang, Xinrun Wang
