@@ -22,7 +22,7 @@ I am currently a **Research Fellow** at Nanyang Technological University (NTU), 
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=bSksaBYAAAAJ&hl=zh-CN)]</span>
 \* Equal Contribution \# Corresponding Author 
-- *[KDD 2026]* **[GraphChase: A Platform and Benchmark for Urban Network Security Games](https://openreview.net/pdf?id=mWhhFKedvG)**
+- *[KDD 2026]* **GraphChase: A Platform and Benchmark for Urban Network Security Games**
   <br/>
   Shuxin Zhuang\*, <u>Shuxin Li</u>\*, Tianji Yang, Muheng Li, Xianjie Shi, Bo An, Youzhi Zhang
   <br/>
